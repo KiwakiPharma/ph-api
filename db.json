@@ -12,5 +12,8 @@
             "id": 3,
             "ref": "REF003"
         }
-    ]
+    ],
+    "receptionCreate": {
+        "response": "Ok"
+    }
 }
