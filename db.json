@@ -1,11 +1,16 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+    "orders" : [
+        {
+            "id": 1,
+            "ref": "REF001"
+        },
+        {
+            "id": 2,
+            "ref": "REF002"
+        },
+        {
+            "id": 3,
+            "ref": "REF003"
+        }
+    ]
+}
